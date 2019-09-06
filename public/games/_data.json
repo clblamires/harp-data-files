@@ -1,0 +1,15 @@
+{
+
+        "game1":{
+            "title":"Super Mario Bros",
+            "system":"Nintendo Entertainment System"
+        },
+        "game2":{
+            "title":"Halo",
+            "system":"Xbox"
+        },
+        "game3":{
+            "title":"Kingdom Hearts",
+            "system":"Playstation 2"
+        }
+}
